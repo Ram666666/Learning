@@ -1,0 +1,30 @@
+.rightdiv{
+    position:absolute;
+    top:0;
+    right:0;
+ }
+ .leftdiv{
+    position:absolute;
+    top:0;
+    left:0;
+ }
+ .but1{
+     color:white;
+     background-color:pink;
+     width:150px;
+     height:70px;
+     border-radius:20px;
+     font-weight:bold;
+ }
+
+ .input1{
+
+    border-radius:25px 0px 0px 25px;
+    width:430px;
+    height:30px;
+
+ }
+
+ #SearchBottom{
+    height:35px; color:white; background-color:lightblue;border-radius:0px 5px 5px 0px;font-weight:bold;
+ }
